@@ -1,10 +1,12 @@
 p {
   color: blue;
   font-size: 40px;
-
+  backgroundColor: green;
 }
 
 h1 {
   backgorundColor: pink;
   font-size: 30 px;
+  
 }
+
