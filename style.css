@@ -9,10 +9,6 @@ h1 {
   font-size: 30 px;
   
 }
-#id {
-  backgroundColor="green",
-  font-size:"30 px";
-}
 #btn {
   backgroundColor: green;
   border: 2 px solid brown;
